@@ -7,3 +7,4 @@ And here in this `Readme.md` file, put the screenshot of important results (logs
 
 ## Your screenshots in order:
 
+<img width="824" alt="Screenshot 2024-11-14 at 16 24 20" src="https://github.com/user-attachments/assets/acb2f427-7d33-48d9-954f-19bbca1ccf1b">
